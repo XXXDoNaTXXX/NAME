@@ -1,0 +1,8 @@
+echo hello
+echo world
+echo is
+echo a
+echo beautiful
+echo world
+echo life
+echo hello
